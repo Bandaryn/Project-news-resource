@@ -1,0 +1,10 @@
+﻿
+@{
+    ViewBag.Title = Resources.Resource.Godmode;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@Html.ActionLink(Resources.Resource.GetUsers, "Users",null, htmlAttributes: new { @class = "btn btn-success" })
+@Html.ActionLink(Resources.Resource.GetNews, "Posts",null, htmlAttributes: new { @class = "btn btn-success" })

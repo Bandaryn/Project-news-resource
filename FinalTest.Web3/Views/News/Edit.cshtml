@@ -1,0 +1,144 @@
+﻿<link rel="stylesheet" href="~/Content/Autocomlete/amsify.suggestags.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+      integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
+      crossorigin="anonymous">
+<link href="~/content/markdown/markdown-editor.css" rel="stylesheet">
+
+@model FinalTest.Domain.Contracts.ViewModels.PostViewModel
+
+@{
+    ViewBag.Title = Resources.Resource.Edit;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.Id)
+    @Html.HiddenFor(model => model.Created)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Title, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Title, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.TagsName, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            <input type="text" name="TagsName" id="TagsName" value="@Model.TagsName">
+            <span class="field-validation-valid text-danger" data-valmsg-for="TagsName" data-valmsg-replace="true"></span>
+        </div>
+
+    </div>
+
+   
+
+
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.SectionId, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.SectionId, Model.SectionsAvailable, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.SectionId, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="form-group">
+            @Html.LabelFor(model => model.Text, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-12">
+                <textarea cols="80" class="form-control markdown" id="Text" name="Text" rows="15"
+                          data-use-twemoji="true" data-default-mode="split">@Model.Text</textarea>
+                @Html.ValidationMessageFor(model => model.Text, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="@Resources.Resource.Save" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+<div>
+
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval");
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"
+            integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ"
+            crossorigin="anonymous"></script>
+    <!-- Markdown IT Main Library -->
+    <script src="~/scripts/markdown/markdown-it.min.js"></script>
+    <!-- Markdown IT Definition List Plugin -->
+    <script src="~/scripts/markdown/markdown-it-deflist.min.js"></script>
+    <!-- Markdown IT Footnote Plugin -->
+    <script src="~/scripts/markdown/markdown-it-footnote.min.js"></script>
+    <!-- Markdown IT Abbreviation Plugin -->
+    <script src="~/scripts/markdown/markdown-it-abbr.min.js"></script>
+    <!-- Markdown IT Subscript Plugin -->
+    <script src="~/scripts/markdown/markdown-it-sub.min.js"></script>
+    <!-- Markdown IT Superscript Plugin -->
+    <script src="~/scripts/markdown/markdown-it-sup.min.js"></script>
+    <!-- Markdown IT Underline/Inserted Text Plugin -->
+    <script src="~/scripts/markdown/markdown-it-ins.min.js"></script>
+    <!-- Markdown IT Mark Plugin -->
+    <script src="~/scripts/markdown/markdown-it-mark.min.js"></script>
+    <!-- Markdown IT SmartArrows Plugin -->
+    <script src="~/scripts/markdown/markdown-it-smartarrows.min.js"></script>
+    <!-- Markdown IT Checkbox Plugin -->
+    <script src="~/scripts/markdown/markdown-it-checkbox.min.js"></script>
+    <!-- Markdown IT East Asian Characters Line Break Plugin -->
+    <script src="~/scripts/markdown/markdown-it-cjk-breaks.min.js"></script>
+    <!-- Markdown IT Emoji Plugin -->
+    <script src="~/scripts/markdown/markdown-it-emoji.min.js"></script>
+    <script src="https://twemoji.maxcdn.com/2/twemoji.min.js"></script>
+    <script src="~/scripts/markdown/markdown-editor.js"></script>
+
+    <script src="~/Scripts/Autocomplete/jquery.amsify.suggestags.js"></script>
+
+    <script>
+
+       var arr = @Html.Raw(Json.Encode(Model.TagSuggested));
+
+
+
+        $('input[name="TagsName"]').amsifySuggestags({
+
+            type: 'amsify',
+
+            //suggestions: ['Black', 'White', 'Red', 'Blue', 'Green', 'Orange']
+            suggestions: arr
+
+
+        });
+    </script>
+
+}

@@ -1,0 +1,44 @@
+﻿@model FinalTest.Domain.Contracts.ViewModels.CommentViewModel
+
+@*<div class="row">
+    <span class="glyphicon glyphicon-thumbs-up" style="color:green" aria-hidden="true"></span>
+    <span style="color:green">@Model.LikesAmount</span>
+
+    <span class="glyphicon glyphicon-thumbs-down" style="color:red" aria-hidden="true"></span>
+    <span style="color:red">@Model.DislikesAmount</span>
+</div>*@
+
+<div class="panel panel-default" id="comm-@Model.Id">
+    <div class="panel-heading">
+        <h3 class="panel-title">@Html.DisplayFor(model => model.AuthorName)</h3>
+    </div>
+    <div class="panel-body">
+        <p>@Html.DisplayFor(model => model.Body)</p>
+
+        <div class="row" id="testtable-@Model.Id">
+            <div class="col-md-1">
+                <span class="glyphicon glyphicon-thumbs-up" style="color:green" aria-hidden="true"></span>
+                <span style="color:green">@Model.LikesAmount</span>
+
+                <span class="glyphicon glyphicon-thumbs-down" style="color:red" aria-hidden="true"></span>
+                <span style="color:red">@Model.DislikesAmount</span>
+            </div>
+            <div class="col-md-1">
+                @if (Model.IsEditable)
+                {
+                    using (Ajax.BeginForm("DeleteComment", new AjaxOptions { UpdateTargetId = "comm-" + Model.Id }))
+                    {
+                        <input id="Id" name="Id" type="hidden" value="@Model.Id" />
+                        <button type="submit" class="btn btn-danger btn-sm">
+                            <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+                        </button>
+                    }
+                }
+
+
+            </div>
+        </div>
+    </div>
+
+
+</div>

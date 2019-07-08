@@ -1,0 +1,99 @@
+﻿@model FinalTest.Domain.Contracts.ViewModels.ProfileViewModel
+
+@{
+    ViewBag.Title = Resources.Resource.ManageRoles;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div>
+    <h4>@Resources.Resource.User  @Model.UserName</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Roles)
+        </dt>
+
+        <dd>
+            @foreach (var item in Model.Roles)
+            {
+                <span>@item</span>
+            }
+        </dd>
+
+    </dl>
+</div>
+<div class="col-md-12">
+    <table class="table">
+        <tr>
+            <td> <strong>@Resources.Resource.SetRole</strong></td>
+            <td>
+                @Html.ActionLink(Resources.Resource.Admin, "Setadmin", new { id = Model.Ids }, htmlAttributes: new { @class = "btn btn-success" })
+            </td>
+            <td>
+                @Html.ActionLink(Resources.Resource.Writer, "Setwriter", new { id = Model.Ids }, htmlAttributes: new { @class = "btn btn-success" })
+            </td>
+            <td>
+                @Html.ActionLink(Resources.Resource.Reader, "Setreader", new { id = Model.Ids }, htmlAttributes: new { @class = "btn btn-success" })
+            </td>
+        </tr>
+        <tr>
+            <td><strong>@Resources.Resource.RemoveRole</strong></td>
+            <td>
+                @Html.ActionLink(Resources.Resource.Admin, "Removeadmin", new { id = Model.Ids }, htmlAttributes: new { @class = "btn btn-warning" })
+            </td>
+            <td>
+                @Html.ActionLink(Resources.Resource.Writer, "RemoveWriter", new { id = Model.Ids }, htmlAttributes: new { @class = "btn btn-warning" })
+            </td>
+        </tr>
+        <tr>
+            <td>
+
+            </td>
+            <td>
+                @Html.ActionLink(Resources.Resource.Ban, "Ban", new { id = Model.Ids }, htmlAttributes: new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+<p>
+    
+    @Html.ActionLink("Back to List", "Users")
+</p>

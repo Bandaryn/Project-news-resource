@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{084D564E-C81B-464C-BBDB-AF74B76EDA46}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FinalTest.Infrastructure</RootNamespace>
+    <AssemblyName>FinalTest.Infrastructure</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Autofac, Version=4.9.2.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+      <HintPath>..\packages\Autofac.4.9.2\lib\net45\Autofac.dll</HintPath>
+    </Reference>
+    <Reference Include="AutoMapper, Version=8.1.0.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.8.1.0\lib\net461\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ContainerBuilderExtensions.cs" />
+    <Compile Include="MappingProfile\CommentMappingProfile.cs" />
+    <Compile Include="MappingProfile\PostMappingProfile.cs" />
+    <Compile Include="MappingProfile\ProfilMappingProfile.cs" />
+    <Compile Include="MappingProfile\TagMappingProfile.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FinalTest.Data.Contracts\FinalTest.Data.Contracts.csproj">
+      <Project>{09FEC83E-2BBE-4341-8B3E-56DF7877EB6F}</Project>
+      <Name>FinalTest.Data.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FinalTest.Data.EntityFrame\FinalTest.Data.EntityFrame.csproj">
+      <Project>{AC495DB6-BF14-4969-A1ED-B0A0CB12E0F0}</Project>
+      <Name>FinalTest.Data.EntityFrame</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FinalTest.Domain.Contracts\FinalTest.Domain.Contracts.csproj">
+      <Project>{F0C64956-819E-4D07-92CF-91011C66320B}</Project>
+      <Name>FinalTest.Domain.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FinalTest.Domain.Services\FinalTest.Domain.Services.csproj">
+      <Project>{DB407A91-41B2-426E-A96D-8F0E4CC86DB7}</Project>
+      <Name>FinalTest.Domain.Services</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

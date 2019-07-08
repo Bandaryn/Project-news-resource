@@ -1,0 +1,692 @@
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Web3.dll.config
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Web3.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Web3.pdb
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csc.exe
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csc.exe.config
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csc.rsp
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csi.exe
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csi.exe.config
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csi.rsp
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.AppContext.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Collections.Immutable.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Console.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.Compression.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.FileSystem.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.Pipes.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Reflection.Metadata.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.AccessControl.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Claims.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.ValueTuple.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Xml.XPath.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\vbc.exe
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\vbc.exe.config
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\vbc.rsp
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\VBCSCompiler.exe
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\VBCSCompiler.exe.config
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Antlr3.Runtime.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\EntityFramework.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\EntityFramework.SqlServer.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Google.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Web.Infrastructure.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Newtonsoft.Json.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Owin.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\System.Diagnostics.DiagnosticSource.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Helpers.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Mvc.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Optimization.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Razor.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.Deployment.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.Razor.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\WebGrease.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Helpers.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Mvc.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Optimization.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Razor.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.Deployment.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.Razor.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Newtonsoft.Json.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Antlr3.Runtime.pdb
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\EntityFramework.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\EntityFramework.SqlServer.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Google.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\System.Diagnostics.DiagnosticSource.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.csprojAssemblyReference.cache
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.csproj.CoreCompileInputs.cache
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.csproj.CopyComplete
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.pdb
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.Extras.CommonServiceLocator.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.Integration.Mvc.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\AutoMapper.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\CommonServiceLocator.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Domain.Contracts.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Infrastructure.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.Contracts.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.EntityFrame.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Domain.Services.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Domain.Contracts.pdb
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Infrastructure.pdb
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Infrastructure.dll.config
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.pdb
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.Extras.CommonServiceLocator.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.Integration.Mvc.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\AutoMapper.pdb
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\AutoMapper.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.Contracts.pdb
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.EntityFrame.pdb
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.EntityFrame.dll.config
+C:\net HW\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Domain.Services.pdb
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Web3.dll.config
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Web3.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Web3.pdb
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csc.exe
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csc.exe.config
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csc.rsp
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csi.exe
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csi.exe.config
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csi.rsp
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.AppContext.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Collections.Immutable.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Console.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.Compression.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.FileSystem.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.Pipes.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Reflection.Metadata.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.AccessControl.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Claims.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.ValueTuple.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Xml.XPath.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\vbc.exe
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\vbc.exe.config
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\vbc.rsp
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\VBCSCompiler.exe
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\VBCSCompiler.exe.config
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Antlr3.Runtime.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.Extras.CommonServiceLocator.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.Integration.Mvc.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\AutoMapper.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\CommonServiceLocator.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\EntityFramework.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\EntityFramework.SqlServer.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Domain.Contracts.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Infrastructure.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Google.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Web.Infrastructure.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Newtonsoft.Json.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Owin.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\System.Diagnostics.DiagnosticSource.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Helpers.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Mvc.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Optimization.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Razor.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.Deployment.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.Razor.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\WebGrease.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.Contracts.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.EntityFrame.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Domain.Services.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Domain.Contracts.pdb
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Infrastructure.pdb
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Infrastructure.dll.config
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.pdb
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.Extras.CommonServiceLocator.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.Integration.Mvc.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\AutoMapper.pdb
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\AutoMapper.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Helpers.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Mvc.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Optimization.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Razor.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.Deployment.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.Razor.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Newtonsoft.Json.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Antlr3.Runtime.pdb
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\EntityFramework.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\EntityFramework.SqlServer.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Google.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\System.Diagnostics.DiagnosticSource.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.Contracts.pdb
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.EntityFrame.pdb
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.EntityFrame.dll.config
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Domain.Services.pdb
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.csprojAssemblyReference.cache
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.csproj.CoreCompileInputs.cache
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.csproj.CopyComplete
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.pdb
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Domain.Services.dll.config
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Web3\bin\ru\FinalTest.Domain.Contracts.resources.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Web3.dll.config
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Web3.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Web3.pdb
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csc.exe
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csc.exe.config
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csc.rsp
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csi.exe
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csi.exe.config
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csi.rsp
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.AppContext.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Collections.Immutable.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Console.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.Compression.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.FileSystem.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.Pipes.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.AccessControl.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Claims.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.ValueTuple.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Xml.XPath.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\vbc.exe
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\vbc.exe.config
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\vbc.rsp
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\VBCSCompiler.exe
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\VBCSCompiler.exe.config
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Antlr3.Runtime.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.Extras.CommonServiceLocator.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.Integration.Mvc.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\AutoMapper.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\CommonServiceLocator.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\EntityFramework.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\EntityFramework.SqlServer.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Domain.Contracts.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Infrastructure.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Google.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Web.Infrastructure.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Newtonsoft.Json.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Owin.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Helpers.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Mvc.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Optimization.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Razor.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.Deployment.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.Razor.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\WebGrease.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.Contracts.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.EntityFrame.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Domain.Services.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Domain.Contracts.pdb
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Infrastructure.pdb
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Infrastructure.dll.config
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.pdb
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.Extras.CommonServiceLocator.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.Integration.Mvc.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\AutoMapper.pdb
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\AutoMapper.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Helpers.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Mvc.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Optimization.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Razor.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.Deployment.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.Razor.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Newtonsoft.Json.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Antlr3.Runtime.pdb
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\EntityFramework.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\EntityFramework.SqlServer.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Google.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.Contracts.pdb
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.EntityFrame.pdb
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.EntityFrame.dll.config
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Domain.Services.pdb
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Domain.Services.dll.config
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\bin\ru\FinalTest.Domain.Contracts.resources.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.csprojAssemblyReference.cache
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.csproj.CoreCompileInputs.cache
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.csproj.CopyComplete
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.dll
+C:\Git\ITNews\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.pdb
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Web3.dll.config
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Web3.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Web3.pdb
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csc.exe
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csc.exe.config
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csc.rsp
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csi.exe
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csi.exe.config
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\csi.rsp
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.AppContext.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Collections.Immutable.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Console.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.Compression.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.FileSystem.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.IO.Pipes.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.AccessControl.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Claims.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.ValueTuple.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Xml.XPath.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\vbc.exe
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\vbc.exe.config
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\vbc.rsp
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\VBCSCompiler.exe
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\roslyn\VBCSCompiler.exe.config
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Antlr3.Runtime.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.Extras.CommonServiceLocator.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.Integration.Mvc.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\AutoMapper.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\CommonServiceLocator.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\EntityFramework.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\EntityFramework.SqlServer.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Domain.Contracts.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Infrastructure.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Google.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Web.Infrastructure.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Newtonsoft.Json.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Owin.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Helpers.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Mvc.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Optimization.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Razor.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.Deployment.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.Razor.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\WebGrease.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.Contracts.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.EntityFrame.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Domain.Services.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Domain.Contracts.pdb
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Infrastructure.pdb
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Infrastructure.dll.config
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.pdb
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.Extras.CommonServiceLocator.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Autofac.Integration.Mvc.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\AutoMapper.pdb
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\AutoMapper.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Helpers.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Mvc.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Optimization.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.Razor.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.Deployment.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\System.Web.WebPages.Razor.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Newtonsoft.Json.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Antlr3.Runtime.pdb
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\EntityFramework.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\EntityFramework.SqlServer.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Google.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.Contracts.pdb
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.EntityFrame.pdb
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Data.EntityFrame.dll.config
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Domain.Services.pdb
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\FinalTest.Domain.Services.dll.config
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\bin\ru\FinalTest.Domain.Contracts.resources.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.csprojAssemblyReference.cache
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.csproj.CoreCompileInputs.cache
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.csproj.CopyComplete
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Web3\obj\Debug\FinalTest.Web3.pdb
+C:\Git\Project-news-resource\FinalTest.Web3\bin\FinalTest.Web3.dll.config
+C:\Git\Project-news-resource\FinalTest.Web3\bin\FinalTest.Web3.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\FinalTest.Web3.pdb
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\csc.exe
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\csc.exe.config
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\csc.rsp
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\csi.exe
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\csi.exe.config
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\csi.rsp
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.AppContext.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.Collections.Immutable.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.Console.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.IO.Compression.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.IO.FileSystem.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.IO.Pipes.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.Security.AccessControl.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.Security.Claims.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.ValueTuple.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.Xml.XPath.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\vbc.exe
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\vbc.exe.config
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\vbc.rsp
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\VBCSCompiler.exe
+C:\Git\Project-news-resource\FinalTest.Web3\bin\roslyn\VBCSCompiler.exe.config
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Antlr3.Runtime.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Autofac.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Autofac.Extras.CommonServiceLocator.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Autofac.Integration.Mvc.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\AutoMapper.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\CommonServiceLocator.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\EntityFramework.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\EntityFramework.SqlServer.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\FinalTest.Domain.Contracts.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\FinalTest.Infrastructure.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.Owin.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.Owin.Security.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.Owin.Security.Google.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.Web.Infrastructure.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Newtonsoft.Json.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Owin.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\System.Web.Helpers.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\System.Web.Mvc.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\System.Web.Optimization.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\System.Web.Razor.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\System.Web.WebPages.Deployment.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\System.Web.WebPages.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\System.Web.WebPages.Razor.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\WebGrease.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\FinalTest.Data.Contracts.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\FinalTest.Data.EntityFrame.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\FinalTest.Domain.Services.dll
+C:\Git\Project-news-resource\FinalTest.Web3\bin\FinalTest.Domain.Contracts.pdb
+C:\Git\Project-news-resource\FinalTest.Web3\bin\FinalTest.Infrastructure.pdb
+C:\Git\Project-news-resource\FinalTest.Web3\bin\FinalTest.Infrastructure.dll.config
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Autofac.pdb
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Autofac.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Autofac.Extras.CommonServiceLocator.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Autofac.Integration.Mvc.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\AutoMapper.pdb
+C:\Git\Project-news-resource\FinalTest.Web3\bin\AutoMapper.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\System.Web.Helpers.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\System.Web.Mvc.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\System.Web.Optimization.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\System.Web.Razor.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\System.Web.WebPages.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\System.Web.WebPages.Deployment.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\System.Web.WebPages.Razor.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Newtonsoft.Json.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Antlr3.Runtime.pdb
+C:\Git\Project-news-resource\FinalTest.Web3\bin\EntityFramework.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\EntityFramework.SqlServer.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.Owin.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.Owin.Security.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.Owin.Security.Google.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Git\Project-news-resource\FinalTest.Web3\bin\FinalTest.Data.Contracts.pdb
+C:\Git\Project-news-resource\FinalTest.Web3\bin\FinalTest.Data.EntityFrame.pdb
+C:\Git\Project-news-resource\FinalTest.Web3\bin\FinalTest.Data.EntityFrame.dll.config
+C:\Git\Project-news-resource\FinalTest.Web3\bin\FinalTest.Domain.Services.pdb
+C:\Git\Project-news-resource\FinalTest.Web3\bin\FinalTest.Domain.Services.dll.config
+C:\Git\Project-news-resource\FinalTest.Web3\bin\ru\FinalTest.Domain.Contracts.resources.dll
+C:\Git\Project-news-resource\FinalTest.Web3\obj\Debug\FinalTest.Web3.csprojAssemblyReference.cache
+C:\Git\Project-news-resource\FinalTest.Web3\obj\Debug\FinalTest.Web3.csproj.CoreCompileInputs.cache
+C:\Git\Project-news-resource\FinalTest.Web3\obj\Debug\FinalTest.Web3.csproj.CopyComplete
+C:\Git\Project-news-resource\FinalTest.Web3\obj\Debug\FinalTest.Web3.dll
+C:\Git\Project-news-resource\FinalTest.Web3\obj\Debug\FinalTest.Web3.pdb

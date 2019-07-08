@@ -1,0 +1,122 @@
+﻿@model IEnumerable<FinalTest.Domain.Contracts.ViewModels.PostViewModel>
+
+@{
+    ViewBag.Title = Resources.Resource.News;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+
+
+<div class="row">
+    <div class="col-md-10">
+        <input type="search" class="form-control" placeholder="@Resources.Resource.Filter">
+    </div>
+
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+
+
+            <th>
+                @Html.DisplayNameFor(model => model.AuthorName)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.SectionName)
+            </th>
+            
+            <th data-tsort-type="date">
+                @Html.DisplayNameFor(model => model.Created)
+            </th>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.Rating)
+            </th>
+            <th data-tsort-type="ignore"></th>
+        </tr>
+    </thead>
+   
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+
+                <td>
+                    @Html.ActionLink(item.AuthorName, "Display", "Profile", new { id = item.AuthorId }, null)
+                </td>
+
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.SectionName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Created)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Rating)
+                </td>
+                <td>
+                    @Html.ActionLink(Resources.Resource.Edit, "Edit", "News", new { id = item.Id }, null) |
+                    @Html.ActionLink(Resources.Resource.Display, "Display", "News", new { id = item.Id }, null) |
+                    @Html.ActionLink(Resources.Resource.Delete, "Delete", "News", new { id = item.Id }, null)
+                </td>
+            </tr>
+        }
+    </tbody>
+   
+
+</table>
+
+@section scripts
+    {
+    <script src="~/Scripts/tablefilter.js"></script>
+    <script>
+        $('table').tableFilter();
+        $('table').tableFilter({
+
+            // input field to filter table rows
+            'input': 'input[type=search]',
+
+            // trigger events and elements
+            'trigger': {
+
+                "event": "keyup",
+                'element': undefined
+            },
+
+            // case sensitive
+            'caseSensitive': false,
+
+            // Timeout for keyboard events (keyup, keypress ...)
+            'timeout': -1,
+
+            // enable table sort
+            'sort': false,
+
+            // not found element
+            // e.g. notFoundElement : ".not-found"
+            'notFoundElement': null,
+
+            // callback
+            'callback': function () { }
+
+        });
+    </script>
+
+
+}

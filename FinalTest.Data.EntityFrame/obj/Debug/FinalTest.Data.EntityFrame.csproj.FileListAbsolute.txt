@@ -1,0 +1,83 @@
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\FinalTest.Data.EntityFrame.dll.config
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\FinalTest.Data.EntityFrame.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\FinalTest.Data.EntityFrame.pdb
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\EntityFramework.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\EntityFramework.SqlServer.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\FinalTest.Data.Contracts.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\FinalTest.Data.Contracts.pdb
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\EntityFramework.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\EntityFramework.SqlServer.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.csprojAssemblyReference.cache
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.csproj.CoreCompileInputs.cache
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.csproj.CopyComplete
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.pdb
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.Migrations.n.resources
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.csproj.GenerateResource.cache
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.Migrations.b.resources
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\Newtonsoft.Json.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\SendGrid.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\System.Net.Http.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\Newtonsoft.Json.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\SendGrid.pdb
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\SendGrid.xml
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.Migrations.Ids.resources
+C:\net HW\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.Migrations.primarystr.resources
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\FinalTest.Data.EntityFrame.dll.config
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\FinalTest.Data.EntityFrame.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\FinalTest.Data.EntityFrame.pdb
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\EntityFramework.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\EntityFramework.SqlServer.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\FinalTest.Data.Contracts.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\Newtonsoft.Json.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\SendGrid.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\System.Net.Http.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\FinalTest.Data.Contracts.pdb
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\EntityFramework.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\EntityFramework.SqlServer.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\Newtonsoft.Json.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\SendGrid.pdb
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\SendGrid.xml
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.csprojAssemblyReference.cache
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.csproj.CoreCompileInputs.cache
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.csproj.CopyComplete
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.dll
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.pdb
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.Migrations._1.resources
+C:\git_learn\homeproject\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.csproj.GenerateResource.cache
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\FinalTest.Data.EntityFrame.dll.config
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\FinalTest.Data.EntityFrame.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\FinalTest.Data.EntityFrame.pdb
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\EntityFramework.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\EntityFramework.SqlServer.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\FinalTest.Data.Contracts.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\Newtonsoft.Json.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\SendGrid.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\System.Net.Http.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\FinalTest.Data.Contracts.pdb
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\EntityFramework.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\Newtonsoft.Json.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\SendGrid.pdb
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\bin\Debug\SendGrid.xml
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.csprojAssemblyReference.cache
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.Migrations._1.resources
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.csproj.GenerateResource.cache
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.csproj.CoreCompileInputs.cache
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.csproj.CopyComplete
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.dll
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.pdb
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.Migrations.dislikes.resources
+C:\Git\News-project\News-project\FinProj\FinalTest\FinalTest.Data.EntityFrame\obj\Debug\FinalTest.Data.EntityFrame.Migrations.dislikesamount.resources
